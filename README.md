@@ -7,12 +7,12 @@ The dataset was provided by Kaggle, and you can find it in: "https://www.kaggle.
 #Step by step procedure
 
 1. Importing libraries
-2. Exploring the datas
+2. Exploring the data
 3. Identifying problems in the dataset
 4. Fixing our dataset
 5. Transforming some variables
 6. EDA (Exploratory Data Analysis)
-7. Interpret the data and give suggestions
+7. Interpret the data and provide suggestions
 
 
 #Optimization suggestions (conclusion)
