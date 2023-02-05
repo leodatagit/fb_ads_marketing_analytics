@@ -17,7 +17,9 @@ The dataset was provided by Kaggle, and you can find it in: "https://www.kaggle.
 
 #Optimization suggestions (conclusion)
 
-Campaigns
+
+Campaigns:
+
 #916
 Increase the budget focusing more in Male between 30-39 and interests between 15-38.
 
