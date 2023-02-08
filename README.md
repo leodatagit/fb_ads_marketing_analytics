@@ -3,6 +3,8 @@ Analyzing a dataset of some Facebook campaigns, providing suggestions for optimi
 
 The dataset was provided by Kaggle, and you can find it in: "https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign"
 
+You can see a report made in looker studio (google data studio) from this project in the following link: https://lookerstudio.google.com/s/onCUhji8tAY
+
 
 #Step by step procedure
 
