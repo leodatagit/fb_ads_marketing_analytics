@@ -6,7 +6,7 @@ The dataset was provided by Kaggle, and you can find it in: "https://www.kaggle.
 You can see a report made in looker studio (google data studio) from this project in the following link: https://lookerstudio.google.com/s/onCUhji8tAY
 
 
-#Step by step procedure
+<h3>Step by step procedure</h3>
 
 1. Importing libraries
 2. Exploring the data
@@ -17,12 +17,11 @@ You can see a report made in looker studio (google data studio) from this projec
 7. Interpret the data and provide suggestions
 
 
-#Optimization suggestions (conclusion)
+<h3>Optimization suggestions (conclusion)</h3>
 
+<h4>Campaigns:</h4>
 
-Campaigns:
-
-#916
+<b>916</b>
 Increase the budget focusing more in Male between 30-39 and interests between 15-38.
 
 #936
