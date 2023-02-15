@@ -24,13 +24,13 @@ You can see a report made in looker studio (google data studio) from this projec
 <b>916</b>
 Increase the budget focusing more in Male between 30-39 and interests between 15-38.
 
-#936
+<b>936</b>
 Increase its budget, focusing in the age segment 30-39. It could be interesting to keep announcing for Female.
 
-#1178
+<b>1178</b>
 To lower the cost per conversion, would be interesting to focus more in the 30-39 public. I'd keep the announcing to F public and use the interests that had more results.
 Maybe trying to model the ads of campaign_916 and 936 could improve the conversion rates.
 
-#1500
+<b>1500</b>
 To drop the cost per conversion, should stop the announcement to F public. 
 I'd keep announcing for the 40-49 segments because, despite it's more expensive, it had a lot of conversions.
